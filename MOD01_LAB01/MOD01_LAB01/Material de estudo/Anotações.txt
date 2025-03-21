@@ -1,0 +1,3 @@
+Estudei utilizando o material a seguir
+    Curso em video sobre Git e Github - https://www.notion.so/Git-GitHub-1a691c130aad80f891f7e0bc2d0b4c5a
+    Curso sobre Terraform - https://portal.tftecprime.com.br/m/home
